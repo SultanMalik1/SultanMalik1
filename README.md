@@ -9,6 +9,8 @@
 🚀 Projects:
 - **City Cares Locator:** A full-stack web application connecting individuals with unstable housing in NYC to over 50 homeless organizations. Built with React and Supabase, the app provides personalized search options and interactive map visuals.
 - **MoviesRater:** A movie rating application developed with React and RESTful APIs, offering users a seamless browsing experience with user-friendly interfaces for rating and reviewing movies.
+- - **Eventful Giving** Currently working on an event management project similar to Eventbrite, where non-profit organizations can post their events. The platform aims to connect these organizations with volunteers and donors, providing a centralized hub for event management and promotion. Using TypeScript, Next.js, React, Tailwind, MonogoDB and Stripe.
+
 
 👯 I’m looking to collaborate on projects that make a positive impact and challenge me to learn new technologies and methodologies.
 
