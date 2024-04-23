@@ -12,9 +12,9 @@
 
 👯 I’m looking to collaborate on projects that make a positive impact and challenge me to learn new technologies and methodologies.
 
-📫 Reach me at [smalik.coder@gmail.com](mailto:smalik.coder@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/sultan-malik-94b867180/).
+📫 Reach me at [smalik.coder@gmail.com](mailto:smalik.coder@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/smalikk/).
 
 😄 Pronouns: He/Him
 
-⚡ Fun fact: I enjoy exploring new coffee shops and learning to play the guitar in my free time!
+⚡ Fun fact: I enjoy exploring new coffee shops and skateboarding with my friends!
 
