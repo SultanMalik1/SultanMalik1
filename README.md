@@ -1,6 +1,6 @@
 👋 Hi, I’m Sultan Malik, a Software Engineer specializing in full-stack development. I leverage a broad skill set in programming languages and technologies like JavaScript, TypeScript, React, Next.js, and MongoDB to create impactful web applications. My Bachelor’s in Computer Science from Fordham University underpins my technical expertise and collaborative approach to problem-solving.
 
-🌐 Check out my portfolio at [smalik.tech](https://smalik.tech)!
+🌐 Check out my portfolio at [smalik.site](https://smalik.site/)!
 
 🌱 I’m currently learning new technologies and methodologies to enhance my skills and stay updated with industry trends.
 
