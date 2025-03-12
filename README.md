@@ -21,7 +21,7 @@ I’m a **Software Engineer** specializing in **full-stack development**, passio
   
 ## 🚀 Projects  
 
-### 🔹 [City Cares Locator](https://citycares.netlify.app/)  
+### 🔹 [City Cares Locator](https://github.com/SultanMalik1/cityCaresLocator/blob/main/README.md)  
 A full-stack web app connecting individuals experiencing housing instability in NYC to over **50 homeless organizations**.  
 - 🏗 Built with **React & Supabase**  
 - 🔍 Features personalized search & interactive map  
