@@ -5,7 +5,7 @@ I’m a **Software Engineer** specializing in **full-stack development**, passio
 🌐 **Portfolio:** [smalik.site](https://smalik.site/)  
 
 ## 🌱 Currently Learning  
-- Studying for **AWS Certified Developer - Associate**  
+- Studying for **AWS Solutions Architect - Associate**  
 - Grinding **LeetCode**
 - Extracting and standardizing legislative data from **50 states** using **Python** and **PostgreSQL**.  
 
